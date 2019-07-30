@@ -7,7 +7,7 @@
       "name": "[NV14-2.1.5] Nighty 2019.07.29.bin",
       "fileName": "[NV14-2.1.5] Nighty 2019.07.29.bin",
       "version": "",
-      "md5Sum": "e7c59e7b2829649dfcbdec6df5c46b9a",
+      "md5Sum": "4c059f5a8aecb29cd785ddf5708e2841",
       "size": 1789416,
       "startAddress": 134217728,
       "url": "https://open-flysky.github.io/Nighty_2019_07_29.bin"
