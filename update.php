@@ -1,6 +1,6 @@
 {
   "status": 200,
-  "message": "Thanks for supporting UFPV",
+  "message": "Thanks for supporting FlySky",
   "files": [
     {
       "type": "firmware",
