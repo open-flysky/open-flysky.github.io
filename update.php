@@ -4,13 +4,13 @@
   "files": [
     {
       "type": "firmware",
-      "name": "[NV14-2.1.5] Nighty 2019.07.29.bin",
-      "fileName": "[NV14-2.1.5] Nighty 2019.07.29.bin",
+      "name": "[NV14-2.1.5] Nightly 2019.07.29.bin",
+      "fileName": "[NV14-2.1.5] Nightly 2019.07.29.bin",
       "version": "",
       "md5Sum": "61025231905976ec4d17b2d7893a04e2",
       "size": 1943440,
       "startAddress": 134217728,
-      "url": "https://open-flysky.github.io/Nighty_2019_08_11.bin"
+      "url": "https://open-flysky.github.io/Nightly_2019_08_11.bin"
     },
     {
       "type": "file",
