@@ -4,8 +4,8 @@
   "files": [
     {
       "type": "firmware",
-      "name": "[NV14-2.1.5] Nightly 2019.07.29.bin",
-      "fileName": "[NV14-2.1.5] Nightly 2019.07.29.bin",
+      "name": "[NV14-2.1.5] Nightly 2019.08.11.bin",
+      "fileName": "[NV14-2.1.5] Nightly 2019.08.11.bin",
       "version": "",
       "md5Sum": "15fc2613093bf201c1dcdf24bd44e3ab",
       "size": 1943456,
@@ -23,8 +23,8 @@
     },
     {
       "type": "file",
-      "name": "Download [NV14-2.1.5] Nightly 2019.07.29.bin",
-      "fileName": "[NV14-2.1.5] Nightly 2019.07.29.bin",
+      "name": "Download [NV14-2.1.5] Nightly 2019.08.11.bin",
+      "fileName": "[NV14-2.1.5] Nightly 2019.08.11.bin",
       "version": "",
       "md5Sum": "15fc2613093bf201c1dcdf24bd44e3ab",
       "size": 1943456,
