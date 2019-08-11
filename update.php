@@ -7,8 +7,8 @@
       "name": "[NV14-2.1.5] Nightly 2019.07.29.bin",
       "fileName": "[NV14-2.1.5] Nightly 2019.07.29.bin",
       "version": "",
-      "md5Sum": "61025231905976ec4d17b2d7893a04e2",
-      "size": 1943440,
+      "md5Sum": "15fc2613093bf201c1dcdf24bd44e3ab",
+      "size": 1943456,
       "startAddress": 134217728,
       "url": "https://open-flysky.github.io/Nightly_2019_08_11.bin"
     },
@@ -17,9 +17,18 @@
       "name": "[NV14-2.1.5] SD Card image",
       "fileName": "[NV14-2.1.5] SD Card image.zip",
       "version": "",
-      "md5Sum": "358ca1a636dd9c2ab2ea17b4cfe0cb12",
-      "size":  2192094,
+      "md5Sum": "4de28cd29becd1da3775f98ac8ce449c",
+      "size":  27250089,
       "url": "https://open-flysky.github.io/SD_card_2.1.15_218.zip"
     }
+    {
+      "type": "file",
+      "name": "Download [NV14-2.1.5] Nightly 2019.07.29.bin",
+      "fileName": "[NV14-2.1.5] Nightly 2019.07.29.bin",
+      "version": "",
+      "md5Sum": "15fc2613093bf201c1dcdf24bd44e3ab",
+      "size": 1943456,
+      "url": "https://open-flysky.github.io/Nightly_2019_08_11.bin"
+    },
   ]
 }
