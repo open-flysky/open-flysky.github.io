@@ -20,7 +20,7 @@
       "md5Sum": "4de28cd29becd1da3775f98ac8ce449c",
       "size":  27250089,
       "url": "https://open-flysky.github.io/SD_card_2.1.15_218.zip"
-    }
+    },
     {
       "type": "file",
       "name": "Download [NV14-2.1.5] Nightly 2019.07.29.bin",
