@@ -29,6 +29,6 @@
       "md5Sum": "15fc2613093bf201c1dcdf24bd44e3ab",
       "size": 1943456,
       "url": "https://open-flysky.github.io/Nightly_2019_08_11.bin"
-    },
+    }
   ]
 }
