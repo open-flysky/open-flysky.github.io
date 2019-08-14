@@ -17,8 +17,8 @@
       "name": "[NV14-2.1.5] SD Card image",
       "fileName": "[NV14-2.1.5] SD Card image.zip",
       "version": "",
-      "md5Sum": "4de28cd29becd1da3775f98ac8ce449c",
-      "size":  27250089,
+      "md5Sum": "f1e4142ec88e497851a5a371e16334c5",
+      "size":  27108052,
       "url": "https://open-flysky.github.io/SD_card_2.1.15_218.zip"
     },
     {
