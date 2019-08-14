@@ -4,13 +4,13 @@
   "files": [
     {
       "type": "firmware",
-      "name": "[NV14-2.1.5] Nightly 2019.08.11.bin",
-      "fileName": "[NV14-2.1.5] Nightly 2019.08.11.bin",
+      "name": "[NV14-2.1.5] Nightly_2019_08_14.bin",
+      "fileName": "[NV14-2.1.5] Nightly_2019_08_14.bin",
       "version": "",
-      "md5Sum": "15fc2613093bf201c1dcdf24bd44e3ab",
+      "md5Sum": "2e3a220cba0a80dea6a9f8877fa503c2",
       "size": 1943456,
       "startAddress": 134217728,
-      "url": "https://open-flysky.github.io/Nightly_2019_08_11.bin"
+      "url": "https://open-flysky.github.io/Nightly_2019_08_14.bin"
     },
     {
       "type": "file",
@@ -23,12 +23,12 @@
     },
     {
       "type": "file",
-      "name": "Download [NV14-2.1.5] Nightly 2019.08.11.bin",
-      "fileName": "[NV14-2.1.5] Nightly 2019.08.11.bin",
+      "name": "Download [NV14-2.1.5] Nightly_2019_08_14.bin",
+      "fileName": "[NV14-2.1.5] Nightly_2019_08_14.bin",
       "version": "",
-      "md5Sum": "15fc2613093bf201c1dcdf24bd44e3ab",
+      "md5Sum": "2e3a220cba0a80dea6a9f8877fa503c2",
       "size": 1943456,
-      "url": "https://open-flysky.github.io/Nightly_2019_08_11.bin"
+      "url": "https://open-flysky.github.io/Nightly_2019_08_14.bin"
     }
   ]
 }
