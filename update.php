@@ -4,7 +4,7 @@
   "files": [
      {
       "type": "firmware",
-      "name": "Nightly 2019.09.03.bin",
+      "name": "Flash Nightly 2019.09.03.bin",
       "fileName": "[NV14-2.1.8] Nightly 2019.09.03.bin",
       "version": "",
       "md5Sum": "8d46ce7415ef6af9b3ce0fd3e1bba804",
@@ -14,7 +14,7 @@
     },
     {
       "type": "firmware",
-      "name": "Nightly 2019.08.14.bin",
+      "name": "Flash Nightly 2019.08.14.bin",
       "fileName": "[NV14-2.1.5] Nightly_2019_08_14.bin",
       "version": "",
       "md5Sum": "2e3a220cba0a80dea6a9f8877fa503c2",
@@ -24,7 +24,7 @@
     },
     {
       "type": "file",
-      "name": "SD Card image 2.1.5",
+      "name": "Download SD Card image 2.1.5",
       "fileName": "[NV14-2.1.5] SD Card image.zip",
       "version": "",
       "md5Sum": "f1e4142ec88e497851a5a371e16334c5",
