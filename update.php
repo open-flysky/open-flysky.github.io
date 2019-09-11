@@ -40,5 +40,15 @@
       "size": 1943456,
       "url": "https://open-flysky.github.io/Nightly_2019_08_14.bin"
     }
+	{
+      "type": "file",
+      "name": "Download [NV14-2.1.8] Nightly 2019.09.03.bin",
+      "fileName": "[NV14-2.1.8] Nightly 2019.09.03.bin",
+      "version": "",
+      "md5Sum": "8d46ce7415ef6af9b3ce0fd3e1bba804",
+      "size": 1951768,
+      "startAddress": 134217728,
+      "url": "https://open-flysky.github.io/Nightly_2019_09_03.bin"
+    },
   ]
 }
