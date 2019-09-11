@@ -49,6 +49,6 @@
       "size": 1951768,
       "startAddress": 134217728,
       "url": "https://open-flysky.github.io/Nightly_2019_09_03.bin"
-    },
+    }
   ]
 }
