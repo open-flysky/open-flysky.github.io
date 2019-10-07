@@ -24,13 +24,13 @@
     },
     {
       "type": "firmware",
-      "name": "Flash Nightly MP 2019.09.30.bin",
-      "fileName": "[NV14-2.1.8] Nightly_MP_2019_09.30.bin",
+      "name": "Flash Nightly MP GV 2019.10.06.bin",
+      "fileName": "[NV14-2.1.8] Nightly_MP_GV_2019_10_06.bin",
       "version": "",
-      "md5Sum": "85f99b67885c580f696e1107d839d190",
-      "size":  1998932,
+      "md5Sum": "e952a39dfebb218c8e3afbac0dba864a",
+      "size":  2040916,
       "startAddress": 134217728,
-      "url": "https://open-flysky.github.io/Nightly_MP_2019_09.30.bin"
+      "url": "https://open-flysky.github.io/Nightly_MP_2019_10.06.bin"
     },
     {
       "type": "file",
@@ -62,13 +62,13 @@
     },
     {
       "type": "file",
-      "name": "Download Nightly MP 2019.09.30.bin",
-      "fileName": "[NV14-2.1.8] Nightly_MP_2019_09.30.bin",
+      "name": "Download Nightly MP GV 2019.10.06.bin",
+      "fileName": "[NV14-2.1.8] Nightly_MP_GV_2019_10_06.bin",
       "version": "",
-      "md5Sum": "85f99b67885c580f696e1107d839d190",
-      "size":  1998932,
+      "md5Sum": "e952a39dfebb218c8e3afbac0dba864a",
+      "size":  2040916,
       "startAddress": 134217728,
-      "url": "https://open-flysky.github.io/Nightly_MP_2019_09.30.bin"
+      "url": "https://open-flysky.github.io/Nightly_MP_2019_10.06.bin"
     }
   ]
 }
