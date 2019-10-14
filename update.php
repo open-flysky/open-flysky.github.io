@@ -33,6 +33,16 @@
       "url": "https://open-flysky.github.io/Nightly_MP_2019_09.30.bin"
     },
     {
+      "type": "firmware",
+      "name": "Flash Nightly MP 2019.10.11.bin",
+      "fileName": "[NV14-2.1.8] Nightly_MP_2019_10.11.bin",
+      "version": "",
+      "md5Sum": "0f86f7112275c7a10bca8cdaa0754d78",
+      "size":  2046296,
+      "startAddress": 134217728,
+      "url": "https://open-flysky.github.io/Nightly_MP_2019_10.11.bin"
+    },
+    {
       "type": "file",
       "name": "Download SD Card image 2.1.5",
       "fileName": "[NV14-2.1.5] SD Card image.zip",
@@ -70,16 +80,15 @@
       "startAddress": 134217728,
       "url": "https://open-flysky.github.io/Nightly_MP_2019_09.30.bin"
     },
-	    {
+    {
       "type": "file",
-      "name": "Download Nightly MP 2019.09.30.bin",
-      "fileName": "[NV14-2.1.8] Nightly_MP_2019_09.30.bin",
+      "name": "Download Nightly MP 2019.10.11.bin",
+      "fileName": "[NV14-2.1.8] Nightly_MP_2019_10.11.bin",
       "version": "",
-      "md5Sum": "85f99b67885c580f696e1107d839d190",
-      "size":  1998932,
+      "md5Sum": "0f86f7112275c7a10bca8cdaa0754d78",
+      "size":  2046296,
       "startAddress": 134217728,
       "url": "https://open-flysky.github.io/Nightly_MP_2019_10.11.bin"
     }
-	
   ]
 }
