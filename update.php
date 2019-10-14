@@ -69,6 +69,17 @@
       "size":  1998932,
       "startAddress": 134217728,
       "url": "https://open-flysky.github.io/Nightly_MP_2019_09.30.bin"
+    },
+	    {
+      "type": "file",
+      "name": "Download Nightly MP 2019.09.30.bin",
+      "fileName": "[NV14-2.1.8] Nightly_MP_2019_09.30.bin",
+      "version": "",
+      "md5Sum": "85f99b67885c580f696e1107d839d190",
+      "size":  1998932,
+      "startAddress": 134217728,
+      "url": "https://open-flysky.github.io/Nightly_MP_2019_10.11.bin"
     }
+	
   ]
 }
