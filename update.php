@@ -41,7 +41,7 @@
       "size":  2069076,
       "startAddress": 134217728,
       "url": "https://open-flysky.github.io/Nightly_AFHDS3_2019_12.30"
-    }
+    },
     {
       "type": "file",
       "name": "Download SD Card image 2.1.5",
