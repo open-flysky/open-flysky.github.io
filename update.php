@@ -40,7 +40,7 @@
       "md5Sum": "a56c17a8f3d2e0eba2868963f19f9f76",
       "size":  2069076,
       "startAddress": 134217728,
-      "url": "https://open-flysky.github.io/Nightly_AFHDS3_2019_12.30"
+      "url": "https://open-flysky.github.io/Nightly_AFHDS3_2019_12.30.bin"
     },
     {
       "type": "file",
@@ -88,7 +88,7 @@
       "md5Sum": "a56c17a8f3d2e0eba2868963f19f9f76",
       "size":  2069076,
       "startAddress": 134217728,
-      "url": "https://open-flysky.github.io/Nightly_AFHDS3_2019_12.30"
+      "url": "https://open-flysky.github.io/Nightly_AFHDS3_2019_12.30.bin"
     }
   ]
 }
