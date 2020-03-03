@@ -41,7 +41,7 @@
       "size":  2068292,
       "startAddress": 134217728,
       "url": "https://open-flysky.github.io/2.1.13_AFHDS3.bin"
-    }
+    },
     {
       "type": "file",
       "name": "Download SD Card image 2.1.5",
