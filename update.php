@@ -32,16 +32,16 @@
       "startAddress": 134217728,
       "url": "https://open-flysky.github.io/Nightly_MP_2019_10.11.bin"
     },
-	{
+    {
       "type": "firmware",
-      "name": "Flash Nightly AFHDS3 2019.12.30.bin",
-      "fileName": "[NV14-2.1.8] Nightly_AFHDS3_2019_12.30.bin",
+      "name": "Flash AFHDS3 2020.03.03.bin",
+      "fileName": "[NV14-2.1.13] AFHDS3_2020.03.03.bin",
       "version": "",
-      "md5Sum": "a56c17a8f3d2e0eba2868963f19f9f76",
-      "size":  2069076,
+      "md5Sum": "aae9641afefa1f60132f0c0f6ea2e840",
+      "size":  2068292,
       "startAddress": 134217728,
-      "url": "https://open-flysky.github.io/Nightly_AFHDS3_2019_12.30.bin"
-    },
+      "url": "https://open-flysky.github.io/2.1.13_AFHDS3.bin"
+    }
     {
       "type": "file",
       "name": "Download SD Card image 2.1.5",
@@ -60,7 +60,7 @@
       "size": 1943456,
       "url": "https://open-flysky.github.io/Nightly_2019_08_14.bin"
     },
-	{
+    {
       "type": "file",
       "name": "Download Nightly 2019.09.03",
       "fileName": "[NV14-2.1.8] Nightly 2019.09.03.bin",
@@ -82,13 +82,13 @@
     },
     {
       "type": "file",
-      "name": "Download Nightly AFHDS3 2019.12.30.bin",
-      "fileName": "[NV14-2.1.8] Nightly_AFHDS3_2019_12.30.bin",
+      "name": "Download AFHDS3 2020.03.03.bin",
+      "fileName": "[NV14-2.1.13] AFHDS3_2020.03.03.bin",
       "version": "",
-      "md5Sum": "a56c17a8f3d2e0eba2868963f19f9f76",
-      "size":  2069076,
+      "md5Sum": "aae9641afefa1f60132f0c0f6ea2e840",
+      "size":  2068292,
       "startAddress": 134217728,
-      "url": "https://open-flysky.github.io/Nightly_AFHDS3_2019_12.30.bin"
+      "url": "https://open-flysky.github.io/2.1.13_AFHDS3.bin"
     }
   ]
 }
