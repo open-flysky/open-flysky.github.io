@@ -34,11 +34,11 @@
     },
     {
       "type": "firmware",
-      "name": "Flash AFHDS3 2020.06.02.bin",
-      "fileName": "[NV14-2.1.13] AFHDS3 2020.06.02.bin",
+      "name": "Flash AFHDS3 2020.06.05.bin",
+      "fileName": "[NV14-2.1.13] AFHDS3 2020.06.05.bin",
       "version": "",
-      "md5Sum": "25003f542a1b19c3dc9d6fff2039b6e0",
-      "size":  2069076,
+      "md5Sum": "7aafd3781bfbbe17ae7d17fef4325da2",
+      "size":  2069108,
       "startAddress": 134217728,
       "url": "https://open-flysky.github.io/2.1.13_AFHDS3_fix.bin"
     },
@@ -82,11 +82,11 @@
     },
     {
       "type": "file",
-      "name": "Download AFHDS3 2020.06.02.bin",
-      "fileName": "[NV14-2.1.13] AFHDS3 2020.06.02.bin",
+      "name": "Download AFHDS3 2020.06.05.bin",
+      "fileName": "[NV14-2.1.13] AFHDS3 2020.06.05.bin",
       "version": "",
-      "md5Sum": "25003f542a1b19c3dc9d6fff2039b6e0",
-      "size":  2069076,
+      "md5Sum": "7aafd3781bfbbe17ae7d17fef4325da2",
+      "size":  2069108,
       "startAddress": 134217728,
       "url": "https://open-flysky.github.io/2.1.13_AFHDS3_fix.bin"
     }
