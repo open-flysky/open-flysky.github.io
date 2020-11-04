@@ -17,7 +17,7 @@
       "name": "Flash [NV14-2.1.17] 2020.11.04.bin",
       "fileName": "[NV14-2.1.17] 2020.11.04.bin",
       "version": "",
-      "md5Sum": "7aafd3781bfbbe17ae7d17fef4325da2",
+      "md5Sum": "8784c4070f080f743c8c56013f20a499",
       "size":  1948984,
       "startAddress": 134217728,
       "url": "https://open-flysky.github.io/2.1.17_2020.11.04.bin"
