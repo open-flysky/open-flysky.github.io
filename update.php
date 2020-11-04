@@ -48,6 +48,6 @@
       "md5Sum": "e9750771bd819f329b76f8c353bb8bcb",
       "size":  179032,
       "url": "https://open-flysky.github.io/FR302_firmware.zip"
-    },
+    }
   ]
 }
