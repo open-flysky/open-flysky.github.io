@@ -2,39 +2,9 @@
   "status": 200,
   "message": "Thanks for supporting FlySky",
   "files": [
-     {
-      "type": "firmware",
-      "name": "Flash Nightly 2019.09.03.bin",
-      "fileName": "[NV14-2.1.8] Nightly 2019.09.03.bin",
-      "version": "",
-      "md5Sum": "8d46ce7415ef6af9b3ce0fd3e1bba804",
-      "size": 1951768,
-      "startAddress": 134217728,
-      "url": "https://open-flysky.github.io/Nightly_2019_09_03.bin"
-    },
     {
       "type": "firmware",
-      "name": "Flash Nightly 2019.08.14.bin",
-      "fileName": "[NV14-2.1.5] Nightly_2019_08_14.bin",
-      "version": "",
-      "md5Sum": "2e3a220cba0a80dea6a9f8877fa503c2",
-      "size": 1943456,
-      "startAddress": 134217728,
-      "url": "https://open-flysky.github.io/Nightly_2019_08_14.bin"
-    },
-    {
-      "type": "firmware",
-      "name": "Flash Nightly MP 2019.10.11.bin",
-      "fileName": "[NV14-2.1.8] Nightly_MP_2019_10.11.bin",
-      "version": "",
-      "md5Sum": "0f86f7112275c7a10bca8cdaa0754d78",
-      "size":  2046296,
-      "startAddress": 134217728,
-      "url": "https://open-flysky.github.io/Nightly_MP_2019_10.11.bin"
-    },
-    {
-      "type": "firmware",
-      "name": "Flash AFHDS3 2020.06.05.bin",
+      "name": "Flash [NV14-2.1.13] 2020.06.05.bin",
       "fileName": "[NV14-2.1.13] AFHDS3 2020.06.05.bin",
       "version": "",
       "md5Sum": "7aafd3781bfbbe17ae7d17fef4325da2",
@@ -43,9 +13,19 @@
       "url": "https://open-flysky.github.io/2.1.13_AFHDS3_fix.bin"
     },
     {
+      "type": "firmware",
+      "name": "Flash [NV14-2.1.17] 2020.11.04.bin",
+      "fileName": "[NV14-2.1.17] 2020.11.04.bin",
+      "version": "",
+      "md5Sum": "7aafd3781bfbbe17ae7d17fef4325da2",
+      "size":  1948984,
+      "startAddress": 134217728,
+      "url": "https://open-flysky.github.io/2.1.17_2020.11.04.bin"
+    },
+    {
       "type": "file",
-      "name": "Download SD Card image 2.1.5",
-      "fileName": "[NV14-2.1.5] SD Card image.zip",
+      "name": "Download SD Card image 2.1.13",
+      "fileName": "[NV14-2.1.13] SD Card image.zip",
       "version": "",
       "md5Sum": "f1e4142ec88e497851a5a371e16334c5",
       "size":  27108052,
@@ -53,42 +33,21 @@
     },
     {
       "type": "file",
-      "name": "Download Nightly 2019.08.14",
-      "fileName": "[NV14-2.1.5] Nightly_2019_08_14.bin",
+      "name": "Download SD Card image 2.1.17",
+      "fileName": "[NV14-2.1.17] SD Card image.zip",
       "version": "",
-      "md5Sum": "2e3a220cba0a80dea6a9f8877fa503c2",
-      "size": 1943456,
-      "url": "https://open-flysky.github.io/Nightly_2019_08_14.bin"
+      "md5Sum": "9cec21772366163ef78bf48969211f3a",
+      "size":  33092805,
+      "url": "https://open-flysky.github.io/SD_card_2.1.17_219.zip"
     },
     {
       "type": "file",
-      "name": "Download Nightly 2019.09.03",
-      "fileName": "[NV14-2.1.8] Nightly 2019.09.03.bin",
+      "name": "Download FRM302 Firmware",
+      "fileName": "FRM302 Firmware.zip",
       "version": "",
-      "md5Sum": "8d46ce7415ef6af9b3ce0fd3e1bba804",
-      "size": 1951768,
-      "startAddress": 134217728,
-      "url": "https://open-flysky.github.io/Nightly_2019_09_03.bin"
+      "md5Sum": "e9750771bd819f329b76f8c353bb8bcb",
+      "size":  179032,
+      "url": "https://open-flysky.github.io/FR302_firmware.zip"
     },
-    {
-      "type": "file",
-      "name": "Download Nightly MP 2019.10.11.bin",
-      "fileName": "[NV14-2.1.8] Nightly_MP_2019_10.11.bin",
-      "version": "",
-      "md5Sum": "0f86f7112275c7a10bca8cdaa0754d78",
-      "size":  2046296,
-      "startAddress": 134217728,
-      "url": "https://open-flysky.github.io/Nightly_MP_2019_10.11.bin"
-    },
-    {
-      "type": "file",
-      "name": "Download AFHDS3 2020.06.05.bin",
-      "fileName": "[NV14-2.1.13] AFHDS3 2020.06.05.bin",
-      "version": "",
-      "md5Sum": "7aafd3781bfbbe17ae7d17fef4325da2",
-      "size":  2069108,
-      "startAddress": 134217728,
-      "url": "https://open-flysky.github.io/2.1.13_AFHDS3_fix.bin"
-    }
   ]
 }
