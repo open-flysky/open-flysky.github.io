@@ -51,7 +51,7 @@
     },
     {
       "type": "file",
-      "name": "Flash [NV14-2.1.13] 2020.06.05.bin",
+      "name": "Download [NV14-2.1.13] 2020.06.05.bin",
       "fileName": "[NV14-2.1.13] AFHDS3 2020.06.05.bin",
       "version": "",
       "md5Sum": "7aafd3781bfbbe17ae7d17fef4325da2",
@@ -60,7 +60,7 @@
     },
     {
       "type": "file",
-      "name": "Flash [NV14-2.1.17] 2020.11.20.bin",
+      "name": "Download [NV14-2.1.17] 2020.11.20.bin",
       "fileName": "[NV14-2.1.17] 2020.11.20.bin",
       "version": "",
       "md5Sum": "bdd3b69a9de705d8b0e572de63df4156",
