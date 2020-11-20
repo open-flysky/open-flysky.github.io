@@ -14,13 +14,13 @@
     },
     {
       "type": "firmware",
-      "name": "Flash [NV14-2.1.17] 2020.11.04.bin",
-      "fileName": "[NV14-2.1.17] 2020.11.04.bin",
+      "name": "Flash [NV14-2.1.17] 2020.11.20.bin",
+      "fileName": "[NV14-2.1.17] 2020.11.20.bin",
       "version": "",
-      "md5Sum": "8784c4070f080f743c8c56013f20a499",
-      "size":  1948984,
+      "md5Sum": "bdd3b69a9de705d8b0e572de63df4156",
+      "size": 1946008,
       "startAddress": 134217728,
-      "url": "https://open-flysky.github.io/2.1.17_2020.11.04.bin"
+      "url": "https://open-flysky.github.io/2.1.17_2020.11.20.bin"
     },
     {
       "type": "file",
@@ -48,6 +48,24 @@
       "md5Sum": "e9750771bd819f329b76f8c353bb8bcb",
       "size":  179032,
       "url": "https://open-flysky.github.io/FR302_firmware.zip"
+    },
+    {
+      "type": "file",
+      "name": "Flash [NV14-2.1.13] 2020.06.05.bin",
+      "fileName": "[NV14-2.1.13] AFHDS3 2020.06.05.bin",
+      "version": "",
+      "md5Sum": "7aafd3781bfbbe17ae7d17fef4325da2",
+      "size":  2069108,
+      "url": "https://open-flysky.github.io/2.1.13_AFHDS3_fix.bin"
+    },
+    {
+      "type": "file",
+      "name": "Flash [NV14-2.1.17] 2020.11.20.bin",
+      "fileName": "[NV14-2.1.17] 2020.11.20.bin",
+      "version": "",
+      "md5Sum": "bdd3b69a9de705d8b0e572de63df4156",
+      "size": 1946008,
+      "url": "https://open-flysky.github.io/2.1.17_2020.11.20.bin"
     }
   ]
 }
