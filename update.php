@@ -23,6 +23,16 @@
       "url": "https://open-flysky.github.io/2.1.17_2020.11.20.bin"
     },
     {
+      "type": "firmware",
+      "name": "Flash [NV14-2.1.17] GHOST_TESTING.bin",
+      "fileName": "[NV14-2.1.17] GHOST_TESTING.bin",
+      "version": "",
+      "md5Sum": "b3d9f85456bcfb6b1558bf060aeb450a",
+      "size": 1959144,
+      "startAddress": 134217728,
+      "url": "https://open-flysky.github.io/2.1.17_GHOST_TESTING.bin"
+    },
+    {
       "type": "file",
       "name": "Download SD Card image 2.1.13",
       "fileName": "[NV14-2.1.13] SD Card image.zip",
@@ -36,8 +46,8 @@
       "name": "Download SD Card image 2.1.17",
       "fileName": "[NV14-2.1.17] SD Card image.zip",
       "version": "",
-      "md5Sum": "9cec21772366163ef78bf48969211f3a",
-      "size":  33092805,
+      "md5Sum": "ae2f6f5624c0eb7517d73047e3a03ce9",
+      "size":  33105540,
       "url": "https://open-flysky.github.io/SD_card_2.1.17_219.zip"
     },
     {
@@ -66,6 +76,15 @@
       "md5Sum": "bdd3b69a9de705d8b0e572de63df4156",
       "size": 1946008,
       "url": "https://open-flysky.github.io/2.1.17_2020.11.20.bin"
+    },
+    {
+      "type": "file",
+      "name": "Download [NV14-2.1.17] GHOST_TESTING.bin",
+      "fileName": "[NV14-2.1.17] GHOST_TESTING.bin",
+      "version": "",
+      "md5Sum": "b3d9f85456bcfb6b1558bf060aeb450a",
+      "size": 1959144,
+      "url": "https://open-flysky.github.io/2.1.17_GHOST_TESTING.bin"
     }
   ]
 }
