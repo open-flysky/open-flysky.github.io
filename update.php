@@ -97,7 +97,7 @@
       "url": "https://open-flysky.github.io/2.1.17_GHOST_TESTING.bin"
     },
 {
-      "type": "firmware",
+      "type": "file",
       "name": "Download [NV14-2.1.18] 2021.01.10",
       "fileName": "[NV14-2.1.18] 2021.01.10.bin",
       "version": "",
