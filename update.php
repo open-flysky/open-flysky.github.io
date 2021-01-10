@@ -24,8 +24,8 @@
     },
     {
       "type": "firmware",
-      "name": "Flash [NV14-2.1.17] GHOST_TESTING.bin",
-      "fileName": "[NV14-2.1.17] GHOST_TESTING.bin",
+      "name": "Flash [NV14-2.1.17] GHOST.bin",
+      "fileName": "[NV14-2.1.17] GHOST.bin",
       "version": "",
       "md5Sum": "b3d9f85456bcfb6b1558bf060aeb450a",
       "size": 1959144,
@@ -89,8 +89,8 @@
     },
     {
       "type": "file",
-      "name": "Download [NV14-2.1.17] GHOST_TESTING.bin",
-      "fileName": "[NV14-2.1.17] GHOST_TESTING.bin",
+      "name": "Download [NV14-2.1.17] GHOST.bin",
+      "fileName": "[NV14-2.1.17] GHOST.bin",
       "version": "",
       "md5Sum": "b3d9f85456bcfb6b1558bf060aeb450a",
       "size": 1959144,
