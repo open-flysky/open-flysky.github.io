@@ -34,8 +34,8 @@
     },
  {
       "type": "firmware",
-      "name": "Flash [NV14-2.1.18].bin",
-      "fileName": "[NV14-2.1.18].bin",
+      "name": "Flash [NV14-2.1.18] 2021.01.10.bin",
+      "fileName": "[NV14-2.1.18] 2021.01.10.bin",
       "version": "",
       "md5Sum": "bc89063e872d0bc7e2f99b669b95445a",
       "size": 1966080,
@@ -98,7 +98,7 @@
     },
 {
       "type": "firmware",
-      "name": "Download [NV14-2.1.18]",
+      "name": "Download [NV14-2.1.18] 2021.01.10",
       "fileName": "[NV14-2.1.18] 2021.01.10.bin",
       "version": "",
       "md5Sum": "bc89063e872d0bc7e2f99b669b95445a",
